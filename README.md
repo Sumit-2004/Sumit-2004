@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit-2004
+- 👋 Hi, I’m Sumit Chakraborty
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on Game Developing
