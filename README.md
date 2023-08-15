@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Chakraborty
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning Data science and Cyber Security 
 - 💞️ I’m looking to collaborate on Game Developing
 - 📫 How to reach me - sumit.ch2004@gmail.com
 
