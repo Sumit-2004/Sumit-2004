@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit Chakraborty
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Programming and Cyber Security 
-- 💞️ I’m looking to collaborate on Developing Projects 
+- 💞️ I’m looking to collaborate on Developing and Testing Projects 
 - 📫 How to reach me - sumit.ch2004@gmail.com
 
 <!---
